@@ -56,7 +56,7 @@ function UserCard({ contact_image, contact_name, last_msg }) {
                     <Typography sx={{ color: '#d3e0e2',ml:"10%" }} >{contact_name}</Typography>
                 }
                 subheader={
-                    <Typography component="p" variant="p" sx={{ color: "#d3e0e2",ml:"10%" }} >{last_msg}</Typography>
+                    <Typography component="p" variant="p" sx={{ color: "#d3e0e2",ml:"10%",whiteSpace:'nowrap' }} >{last_msg}</Typography>
                 }
 
             />

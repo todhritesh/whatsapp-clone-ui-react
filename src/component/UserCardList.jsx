@@ -13,7 +13,7 @@ const name_image_list = [
     {
         contact_image:"images/u1.jpg",
         contact_name:"Rohan",
-        last_msg:'hii',
+        last_msg:'hii , whatsup',
     },
     {
         contact_image:"images/u2.webp",
@@ -38,12 +38,12 @@ const name_image_list = [
     {
         contact_image:"images/u3.jpg",
         contact_name:"Mohan",
-        last_msg:'Where ?',
+        last_msg:'Where r u ?',
     },
     {
         contact_image:"images/u2.webp",
         contact_name:"Sohan",
-        last_msg:'hii',
+        last_msg:'hello',
     },
     {
         contact_image:"images/u3.jpg",
@@ -58,12 +58,12 @@ const name_image_list = [
     {
         contact_image:"images/u2.webp",
         contact_name:"Sohan",
-        last_msg:'hii',
+        last_msg:'hii their',
     },
     {
         contact_image:"images/u3.jpg",
         contact_name:"Mohan",
-        last_msg:'hii',
+        last_msg:'hii , how are u',
     },
     {
         contact_image:"images/u4.jpg",
